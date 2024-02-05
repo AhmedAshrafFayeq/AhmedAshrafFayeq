@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 iOS Developer
 -------------
 
-I am an iOS developer with an ambition to continue learning.
+A passionate iOS developer.
 
 * ✉️  You can contact me at [ahmedashraffayeq@gmail.com](mailto:ahmedashraffayeq@gmail.com)
 * 🚀  I'm currently working on [Sehhaty | صحتي App](http://www.moh.gov.sa/en/eServices/Sehhaty/Pages/default.aspx)
