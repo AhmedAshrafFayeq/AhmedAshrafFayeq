@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmed Fayeq
+My name is Ahmed Fayeq
 ==========================================================================================================================================
 
 A passionate iOS Developer
@@ -6,7 +6,6 @@ A passionate iOS Developer
 
 * ✉️  You can contact me at [ahmedashraffayeq@gmail.com](mailto:ahmedashraffayeq@gmail.com)
 * 🚀  I'm currently working on [Sehhaty | صحتي App](http://www.moh.gov.sa/en/eServices/Sehhaty/Pages/default.aspx)
-* 🧠  I'm learning and updating my skills in iOS development
 * 🤝  I'm open to collaborating on Projects
 
 
