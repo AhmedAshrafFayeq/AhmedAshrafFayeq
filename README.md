@@ -1,7 +1,7 @@
 My name is Ahmed Fayeq
 ==========================================================================================================================================
 
-A passionate iOS Developer
+iOS Developer
 -------------
 
 * ✉️  You can contact me at [ahmedashraffayeq@gmail.com](mailto:ahmedashraffayeq@gmail.com)
